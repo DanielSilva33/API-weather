@@ -34,7 +34,8 @@ $ node index.js
 ## Não se esqueça de colocar sua chave de API:
 
 * apiKey = Chave de API;
+---
 
-### A API nos retorna todos os dados de tempo para a cidade selecionada, no retorno da nossa API coloquei somente as informações mais importantes, para acessar e ter o retorno da api basta acessar: http://localhost:3333/
+#### A API nos retorna todos os dados de tempo para a cidade selecionada, no retorno da nossa API coloquei somente as informações mais importantes, para acessar e ter o retorno da api basta acessar: http://localhost:3333/
 ---
 Feito por [Daniel Silva](https://www.linkedin.com/in/daniel-silva-1a3209196/)
